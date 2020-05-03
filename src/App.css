@@ -1,0 +1,23 @@
+*{
+  font-size: 1rem;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+  text-align: left;
+}
+
+td {
+  vertical-align: bottom;
+}
+th, td {
+  width: 5rem;
+}
+
+img{
+  height: 25vh;
+}
